@@ -1,0 +1,15 @@
+anthropic==0.31.1
+fschat==0.2.36
+numpy==1.26.3
+openai==0.28.0
+pandas==2.2.2
+protobuf==4.23.4
+pytz==2024.1.post1
+torch==2.3.1
+transformers==4.42.4
+urllib3==2.2.2
+google-generativeai==0.7.2
+wandb==0.17.4
+accelerate==0.32.1
+pyarrow
+fastparquet

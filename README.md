@@ -24,7 +24,7 @@ This repository shares the code of our latest work on LLMs jailbreaking.  In thi
 -  Extensive experiments on open and closed-source LLMs show our framework’s high effectiveness, achieving an 86% success
   rate on GPT-3.5-turbo in under 10 queries.
 
-![alt](image/pipline.png)
+![alt](images/pipline.png)
 
 
 

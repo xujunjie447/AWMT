@@ -19,7 +19,7 @@
 
 This repository shares the code of our latest work on LLMs jailbreaking.  In this work:
 
-- We propose aframework for generating adversarial prompts using a tree-structured approach and iterative optimization with LLMs. By integrating working memory theory and data category analysis, we design targeted prompts to enhance attack success rates.
+- We propose a framework for generating adversarial prompts using a tree-structured approach and iterative optimization with LLMs. By integrating working memory theory and data category analysis, we design targeted prompts to enhance attack success rates.
 -  We enhance adversarial prompts by combining multiple sub-prompts based on role-playing scenario.
 -  Extensive experiments on open and closed-source LLMs show our framework’s high effectiveness, achieving an 86% success
   rate on GPT-3.5-turbo in under 10 queries.

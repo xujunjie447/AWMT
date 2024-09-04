@@ -11,7 +11,7 @@
 - [Overview](#overview)
 
 - [Getting Started](#start)
-- [Run Experiments]()
+- [Run Experiments](#run)
 
 ### <a id="overview">Overview</a>
 
@@ -28,7 +28,7 @@ This repository shares the code of our latest work on LLMs jailbreaking.  In thi
 
 
 
-### Getting Started
+### <a id="start">Getting Started</a>
 
 ------
 
@@ -36,13 +36,13 @@ For your desired black box models, make sure you have the API key stored in `OPE
 
 Run `wandb login` to login to your Wandb account beforehand to log your data.
 
-If you would like to run AWMT with Vicuna, Llama or Qwen2 locally, modify `config.py` with the proper path of Vicuna, Llama or Qwen2.
+If you would like to run AWMT with Vicuna, Llama or Qwen2 locally, you need to download the corresponding model first, then modify `config.py` with the proper path of Vicuna, Llama or Qwen2.
 
 If you want to add other models, you can add the corresponding class methods in `language_models.py`. For local models, you also need to add the path in `config.py`.
 
 
 
-### Run Experiments
+### <a id="run">Run Experiments</a>
 
 ------
 

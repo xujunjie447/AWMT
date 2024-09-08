@@ -26,7 +26,7 @@ This repository shares the code of our latest work on LLMs jailbreaking.  In thi
 
 ![alt](images/pipeline1.png)
 
-
+The process of automatic iterative prompt construction primarily utilizes the working memory tree structure to generate prompts automatically. It comprises three crucial stages: data category analysis, prompt scenario generation, and multi-prompt combination. These three steps culminate in the creation of the final adversarial prompts, which are then employed for jailbreak attacks in the subsequent phase.
 
 What follows is a concrete illustration designed to shed light on the phase of automatic iterative prompt construction. This phase is composed of three pivotal steps, each accompanied by a tailored prompt template.
 

@@ -44,7 +44,7 @@ What follows is a concrete illustration designed to shed light on the phase of a
 
 
 
-**Step2:**  **Prompt Scenario Construction.** Based on the analysis of the aforementioned category knowledge injection, scenario prompts will be constructed on this foundation. The prompt template is as follows.
+**Step2:**  **Prompt Scenario Construction.** Based on the analysis of the aforementioned category knowledge injection, scenario prompts will be constructed on this foundation. The prompt template is as follows, with the example provided in the prompt template primarily intended to standardize the model's output format and behavior.
 
 ```
 Based on the above input and category knowledge, you need to present the adversarial prompt in a role-play scenario. Here is a simple example: {Example}.
